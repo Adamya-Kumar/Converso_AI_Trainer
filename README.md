@@ -88,21 +88,21 @@ Converso AI Trainer is a real-time, AI-powered teaching platform that lets you b
 
   Service/Package         Purpose                                                                  
  ------------------------ ------------------------------------------------------------------------- 
-  **Next.js**              Web framework for React, enabling SSR, API routes, and static generation  
-  **React**                Component-based UI library                                                
-  **TypeScript**           Adds static typing to JavaScript for better maintainability              
-  **Tailwind CSS**         Rapid UI development with utility-first CSS classes                      
-  **OpenAI GPT-4**         Generates intelligent, context-aware tutor responses in real time        
-  **11labs**               Synthesizes realistic AI-generated voices for companions                 
-  **Deepgram**             Provides live speech-to-text transcription for interactive sessions      
-  **Clerk**                Handles authentication and session management securely                   
-  **Sentry**               Error monitoring and logging for production                              
-  **react-hook-form**      Easy and performant form management in React                             
-  **zod**                  Schema validation for form input and API data                            
-  **clsx & tailwind-merge**   Efficient merging of Tailwind class names                              
-  **lottie-react**         Renders Lottie animations for rich UI feedback                           
-  **@jsmastery/utils**     Utilities for managing query strings and URLs                            
-  **Vercel** *(optional)*  Seamless deployment and hosting for Next.js apps                         
+- **Next.js**              Web framework for React, enabling SSR, API routes, and static generation  
+- **React**                Component-based UI library                                                
+- **TypeScript**           Adds static typing to JavaScript for better maintainability              
+- **Tailwind CSS**         Rapid UI development with utility-first CSS classes                      
+- **OpenAI GPT-4**         Generates intelligent, context-aware tutor responses in real time        
+- **11labs**               Synthesizes realistic AI-generated voices for companions                 
+- **Deepgram**             Provides live speech-to-text transcription for interactive sessions      
+- **Clerk**                Handles authentication and session management securely                   
+- **Sentry**               Error monitoring and logging for production                              
+- **react-hook-form**      Easy and performant form management in React                             
+- **zod**                  Schema validation for form input and API data                            
+- **clsx & tailwind-merge**   Efficient merging of Tailwind class names                              
+- **lottie-react**         Renders Lottie animations for rich UI feedback                           
+- **@jsmastery/utils**     Utilities for managing query strings and URLs                            
+- **Vercel** *(optional)*  Seamless deployment and hosting for Next.js apps                         
 
 ```
 ---
