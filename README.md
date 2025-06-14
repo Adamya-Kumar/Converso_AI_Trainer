@@ -84,7 +84,7 @@ Converso AI Trainer is a real-time, AI-powered teaching platform that lets you b
 }
 ```
 ## 🔍 Service/Package Explanations
-```bash
+
 
   Service/Package         Purpose                                                                  
  ------------------------ ------------------------------------------------------------------------- 
@@ -104,7 +104,6 @@ Converso AI Trainer is a real-time, AI-powered teaching platform that lets you b
 - **@jsmastery/utils**     Utilities for managing query strings and URLs                            
 - **Vercel** *(optional)*  Seamless deployment and hosting for Next.js apps                         
 
-```
 ---
 ## 🏗️ Installation
 
